@@ -4,7 +4,7 @@
 <html lang="tr">
 <head runat="server">
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">    <title><%: Page.Title %> - Örme Makinaları Verim Otomasyonu V1</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="örme ve dokuma makinaları üretim verimliliği" />
 	<meta name="author" content="info@yamanbas.com" />
     <script src="Scripts/jquery-3.4.1.js"></script>
