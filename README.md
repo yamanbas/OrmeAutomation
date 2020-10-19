@@ -1,2 +1,0 @@
-# OrmeAutomation
-Sancak Orme 
